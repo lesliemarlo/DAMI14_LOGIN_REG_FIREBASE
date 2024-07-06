@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725493793785",
+    "project_id": "cibertecfirebase-532ed",
+    "storage_bucket": "cibertecfirebase-532ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725493793785:android:c7972090379731d00f7328",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9pPZIOrjNQbuT184e6A04dG2jbDxsr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
